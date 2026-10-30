@@ -1,0 +1,11 @@
+{
+  "dataset": "MNIST training split",
+  "epochs_completed": 20,
+  "device": "cuda",
+  "last_losses": {
+    "epoch": 20,
+    "generator_loss": 3.3563269822438557,
+    "discriminator_loss": 0.14370486907958985
+  },
+  "note": "Losses alone do not measure image quality; inspect the sample grids."
+}

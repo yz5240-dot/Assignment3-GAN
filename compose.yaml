@@ -1,0 +1,6 @@
+services:
+  gan-api:
+    build: .
+    image: assignment3-mnist-gan:latest
+    ports:
+      - "8000:8000"

@@ -1,0 +1,11 @@
+{
+  "health": {
+    "status": "ok",
+    "model_file_present": true
+  },
+  "generation_status": 200,
+  "content_type": "image/png",
+  "invalid_count_status": 422,
+  "same_seed_repeatable": true,
+  "test_method": "FastAPI TestClient with saved MNIST generator weights"
+}
